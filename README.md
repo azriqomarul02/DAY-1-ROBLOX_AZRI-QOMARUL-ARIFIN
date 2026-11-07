@@ -28,6 +28,7 @@ Seluk-Beluk TIK: Pembahasan mengenai visi, misi, dan fondasi utama dari Jurusan 
 Profil Lulusan Tiap Jurusan/Prodi: Penjelasan mengenai gambaran kompetensi, keahlian, dan prospek karir lulusan di masing-masing program studi TIK.
 Kurikulum & Program Magang: Penyampaian struktur kurikulum perkuliahan serta alur persiapan program magang industri bagi mahasiswa.
 Prompt Engineering (GitHub & AI Tools): Pembelajaran teknik prompt engineering baik secara manual maupun memanfaatkan berbagai alat AI populer (seperti ChatGPT, Claude, Gemini, DeepSeek, dan Grok) yang terintegrasi dengan workflow GitHub.
+
 2. Poin-Poin Penting & Pengetahuan Baru
 Beberapa wawasan baru dan poin penting yang dipelajari selama sesi:
 
